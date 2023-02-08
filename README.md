@@ -1,7 +1,7 @@
 # Kumologica contribution node: kumologica-contrib-uuid
 
 ## Overview
-Kumologica node to generate universally unique identifier.
+Kumologica node to generate universally unique identifier. The node supports UUID version V1, V3,V4 and V5.
 
 ## Installation
 
@@ -28,7 +28,7 @@ kl open
 ```
 
 ## More information
-For the documentation for ChatGPT Node see: [UUID](https://docs.kumologica.com/docs/references/UUID.html)
+For the documentation for UUID Node see: [UUID](https://docs.kumologica.com/docs/references/UUID.html)
 
 For more information about Kumologica SDK Installation see: [Kumologica SDK Installation](https://docs.kumologica.com/docs/guide/GettingStarted.html#installation)
 
