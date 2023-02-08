@@ -1,6 +1,6 @@
 {
   "name": "@kumologica/kumologica-contrib-uuid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node for generating the UUID",
   "repository": {
     "type": "git",
