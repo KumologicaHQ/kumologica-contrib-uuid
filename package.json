@@ -1,0 +1,28 @@
+{
+  "name": "@kumologica/kumologica-contrib-uuid",
+  "version": "0.0.1",
+  "description": "Node for generating the UUID",
+  "repository": {
+    "type": "git",
+    "url": "githttps://github.com/KumologicaHQ/kumologica-contrib-uuid.git"
+  },
+  "keywords": [
+    "kumologica",
+    "platform",
+    "UUID"
+  ],
+  "scripts": {
+    "pub": "npm publish --access public"
+  },
+  "dependencies": {
+    "@kumologica/devkit": "latest",
+    "uuid": "^9.0.0"
+  },
+  "kumologica": {
+    "nodes": {
+      "UUID": "lib/UUID.js"
+    }
+  },
+  "author": "Kumologica Team",
+  "license": "Copyright 2020 Kumologica, all rights reserved"
+}
